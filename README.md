@@ -11,7 +11,7 @@
 
 ---
 
-**Olanihun Daniel Oluwanifemi** — software engineer and computer science undergrad at the University of Lagos, learning to build <b style="color:#667eea;">scalable and reliable backend systems</b> and <b style="color:#764ba2;">AI systems</b>. I also have a passion for creating <b style="color:#667eea;">interactive frontend experiences</b> that tell stories.
+**Olanihun Daniel Oluwanifemi** — software engineer and computer science undergrad at the University of Lagos, learning to build <b style="color:#667eea;">scalable and reliable backend systems</b>, <b style="color:#764ba2;">AI systems and Infrastructure</b>. I also have a passion for creating <b style="color:#667eea;">interactive and original frontend experiences</b> that tell stories.
 
 Also into jazz.
 
