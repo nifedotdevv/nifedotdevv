@@ -3,6 +3,10 @@
   hello world (こんにちは世界)
 </h1>
 
+I am **Olanihun Daniel Oluwanifemi**, a software engineer and Computer Science undergrad at the University of Lagos, Nigeria, learning to build **scalable and reliable systems**, **AI-integrated systems and infrastructure**. I also have a passion for creating **interactive and responsive frontend experiences** that tell stories.
+
+Also into jazz.
+
 <p style="font-size: 0.85em; color: #999; margin: 0 0 1em 0; letter-spacing: 0.05em; text-transform: uppercase; font-weight: 600;">
   learning • building • shipping
 </p>
@@ -11,15 +15,7 @@
 
 ---
 
-**Olanihun Daniel Oluwanifemi** — software engineer and computer science undergrad at the University of Lagos, learning to build <b style="color:#667eea;">scalable and reliable backend systems</b>, <b style="color:#764ba2;">AI systems and Infrastructure</b>. I also have a passion for creating <b style="color:#667eea;">interactive and original frontend experiences</b> that tell stories.
-
-Also into jazz.
-
 **Core Stack:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="16" style="vertical-align:middle;"/> Python · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="16" style="vertical-align:middle;"/> JavaScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="16" style="vertical-align:middle;"/> TypeScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="16" style="vertical-align:middle;"/> Java
-
----
-
-<img height="120" src="https://streak-stats.demolab.com/?user=olanihundaniel0-star&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 ---
 
